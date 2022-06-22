@@ -28,6 +28,7 @@
         "react/react-in-jsx-scope": "off",
         "semi": ["error", "always"],
         "indent": ["error", 4],
+        "quotes": ["error","single"],
         "tailwindcss/enforces-shorthand": "warn",
         "tailwindcss/no-contradicting-classname": "warn",
         "@typescript-eslint/no-unused-vars": [
